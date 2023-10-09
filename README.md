@@ -3,4 +3,4 @@
 
 Woxel uses intuitive controls akin to Minetest and Minecraft, while providing a design experience similar to Goxel and Magicalvoxel. Woxel paves the way to transitioning Minecraft/Minetest players to 3D asset creators for games.
 
-Try it now! https://Woxel.xyz
+**Try it now!** https://Woxel.xyz
